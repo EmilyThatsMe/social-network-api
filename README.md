@@ -22,7 +22,7 @@ This is back end code for the api of a social media site which allows one to pos
 
 ## Images
 
-You can find a video tutorial here:
+You can find a video tutorial here: https://watch.screencastify.com/v/Z3M7wkuOFajZ3GzYoxoz
 
 ## Contributors
 
