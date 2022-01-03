@@ -9,9 +9,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(require('./routes'));
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/social-media-api',
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/pizza-hunt',
   {
-    useFindAndModify: false,
     useNewUrlParser: true,
     useUnifiedTopology: true,
   }
